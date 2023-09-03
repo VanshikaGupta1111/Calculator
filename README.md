@@ -49,10 +49,6 @@ You can easily customize the calculator's appearance by modifying the CSS styles
 
 Contributions are welcome! If you have any ideas for improvements or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them first by opening an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact us at [vanshika555gupta@gmail.com].
