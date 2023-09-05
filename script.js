@@ -10,7 +10,7 @@ Array.from(buttons).forEach((button)=>{
                 string = "";
                 document.querySelector('input').value = string;
             }
-            else if(e.target.innerHTML == 'fa-solid fa-delete')
+            else if(e.target.innerHTML == 'DEL')
             {
                 strings = strings.substring(0,strings.length-1);
                 document.querySelector('input').value = strings;
